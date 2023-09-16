@@ -1,0 +1,8 @@
+/*Os numeros de ctt dono e bot precisam ser sem o 9 e caracteres: Ex.: 559883528066*/
+
+As chaves devem está estre as aspas duplas.  Você pode está colando todo o arquivo no chatGPT para saber se não há erros de sintaxe json. 
+
+Para o prefixo, use apenas um caracter
+Ex.: 
+  [ / @ $ & * . etc...]
+
